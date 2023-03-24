@@ -1,2 +1,8 @@
-@import './common';
-@import './example';
+/* Utils */
+@import "./utils/vars";
+@import "./normalize";
+
+/* Components */
+@import "./components/body";
+@import "./components/gallery";
+@import "./components/lightbox";
