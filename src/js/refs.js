@@ -1,4 +1,4 @@
-export default refs = {
+export default {
   gallery: document.querySelector(".js-gallery"),
   closeLightboxBtn: document.querySelector(
     'button[data-action="close-lightbox"]'
